@@ -95,8 +95,7 @@ python route_optimization.py
 ---
 
 ## **📧 Contact & Contributions**  
-👩‍💻 **Author:** Your Name  
-📌 **GitHub Repo:** _[Add your repo link]_  
+👩‍💻 **Author:** Nayudamma Chowdary Narne 
 🤝 **Contributions Welcome!** Fork, star ⭐, and submit PRs!  
 
 ---
